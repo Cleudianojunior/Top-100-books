@@ -1,1 +1,1 @@
-Esta aplicação carrega um arquivo CSV com os 100 livros mais populares vendidios na Amazon e faz uma analise em garficos da sua venda durante os anos e informar os principais comentarios dos compradores sobre esses livros.
+Esta aplicação carrega um arquivo CSV com os 100 livros mais populares vendidios na Amazon e faz uma analise em garficos da suas vendas durante os anos e informar os principais comentarios dos compradores sobre esses livros.
